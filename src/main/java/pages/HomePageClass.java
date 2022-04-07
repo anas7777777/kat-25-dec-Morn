@@ -8,6 +8,9 @@ import org.openqa.selenium.support.PageFactory;
 
 public class HomePageClass {
 	//This is homepage classs
+	
+	//adding second commit to the branch
+	
 	@FindBy(xpath="//*[@id='branding']//a[@id='welcome']")
 	private WebElement link;
 	
